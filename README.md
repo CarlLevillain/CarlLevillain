@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CarlLevillain&theme=monokai&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <!--
 **CarlLevillain/CarlLevillain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
